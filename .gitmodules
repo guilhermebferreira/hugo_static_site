@@ -1,0 +1,3 @@
+[submodule "blog/themes/bleak"]
+	path = blog/themes/bleak
+	url = git@github.com:Zenithar/hugo-theme-bleak.git
